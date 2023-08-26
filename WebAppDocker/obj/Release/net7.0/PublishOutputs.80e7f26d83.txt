@@ -1,0 +1,7 @@
+D:\Github\WebAppDocker\WebAppDocker\obj\Release\net7.0\PubTmp\Out\WebAppDocker.exe
+D:\Github\WebAppDocker\WebAppDocker\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\Github\WebAppDocker\WebAppDocker\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\Github\WebAppDocker\WebAppDocker\obj\Release\net7.0\PubTmp\Out\WebAppDocker.dll
+D:\Github\WebAppDocker\WebAppDocker\obj\Release\net7.0\PubTmp\Out\WebAppDocker.deps.json
+D:\Github\WebAppDocker\WebAppDocker\obj\Release\net7.0\PubTmp\Out\WebAppDocker.runtimeconfig.json
+D:\Github\WebAppDocker\WebAppDocker\obj\Release\net7.0\PubTmp\Out\WebAppDocker.pdb
